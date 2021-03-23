@@ -1,6 +1,7 @@
 # Node artifact files
 node_modules/
 dist/
+projekt*/
 
 # Log files
 *.log
@@ -21,4 +22,4 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
-
+*.pdf
